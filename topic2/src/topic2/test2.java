@@ -5,9 +5,9 @@ public class test2 {
                 	
          
                 		System. out. println("HelloWorld!");
-                		System. out. println("Hello!");
-                		System. out. println("Hello ª∆≈Ê÷“");
                 		System. out. println("Hello ª∆");
+                		System. out. println("Hello ≈Ê");
+                		System. out. println("Hello ÷“");
 
                 }
                 
